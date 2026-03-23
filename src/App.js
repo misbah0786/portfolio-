@@ -67,19 +67,17 @@ function App() {
       <section id="about" className="px-10 py-16">
         <h2 className="text-3xl font-semibold text-emerald-400">About Me</h2>
 
-        <p className="mt-4 text-gray-400 max-w-2xl">
-          A result-oriented individual with a strong passion for programming and
-          problem-solving. I aim to contribute to dynamic environments by building
-          impactful applications while continuously upgrading my technical skills.
+      <p className="mt-4 text-gray-400 max-w-2xl">
+  A result-oriented individual with a strong passion for programming and
+  problem-solving. I aim to contribute to dynamic environments by building
+  impactful applications while continuously upgrading my technical skills.
+</p>
 
-
-I have a keen interest in artificial intelligence, machine learning, and full-stack development, 
-and I enjoy working on real-world problems that involve data analysis, automation, and intelligent systems. 
-I am driven by curiosity, adaptability, and a desire to create meaningful technology solutions.
-
-          
-        </p>
-      </section>
+<p className="mt-4 text-gray-400 max-w-2xl">
+  I have a keen interest in artificial intelligence, machine learning, and full-stack development, 
+  and I enjoy working on real-world problems that involve data analysis, automation, and intelligent systems. 
+  I am driven by curiosity, adaptability, and a desire to create meaningful technology solutions.
+</p>
 
       {/* PROJECTS */}
       <section id="projects" className="px-10 py-16">
