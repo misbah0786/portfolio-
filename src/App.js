@@ -78,6 +78,7 @@ function App() {
   and I enjoy working on real-world problems that involve data analysis, automation, and intelligent systems. 
   I am driven by curiosity, adaptability, and a desire to create meaningful technology solutions.
 </p>
+  </section>
 
       {/* PROJECTS */}
       <section id="projects" className="px-10 py-16">
