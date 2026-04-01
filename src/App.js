@@ -72,6 +72,7 @@ function App() {
   problem-solving. I aim to contribute to dynamic environments by building
   impactful applications while continuously upgrading my technical skills.
 </p>
+</section>
 
 <p className="mt-4 text-gray-400 max-w-2xl">
   I have a keen interest in artificial intelligence, machine learning, and full-stack development, 
@@ -83,7 +84,7 @@ function App() {
       <section id="projects" className="px-10 py-16">
         <h2 className="text-3xl font-semibold text-emerald-400">Projects</h2>
 
-        <div className="grid md:grid-cols-3 gap-6 mt-8">
+        <div> className="grid md:grid-cols-3 gap-6 mt-8">
 
           {/* CARD 1 */}
           <div className="bg-gray-900 border border-emerald-500 p-6 rounded-lg hover:scale-105 transition">
@@ -95,7 +96,8 @@ function App() {
               <a href="https://github.com/misbah0786/SIC_PROJECT-DROWSINESS-DETECTION" className="text-emerald-400">GitHub</a>
               
             </div>
-          </div>
+            </div>
+          
 
           {/* CARD 2 */}
           <div className="bg-gray-900 border border-emerald-500 p-6 rounded-lg hover:scale-105 transition">
